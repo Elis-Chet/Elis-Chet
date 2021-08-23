@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elis-Chet 
+- 👋 Hi, I’m @elis-chet 
 - 👀 I’m interested in Accounting and have a casual interst in Programming and Statisitics.
 - 🌱 I’m brand new to Programming...
 - 💞️ I apprciate any help people are willing to give!
